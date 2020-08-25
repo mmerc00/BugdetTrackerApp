@@ -1,3 +1,5 @@
+![Demo](budget.gif)
+
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
 User can track spending with this online and offline budget tracker.
