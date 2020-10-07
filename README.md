@@ -1,8 +1,10 @@
 ![Demo](budget.gif)
 
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+- [Check out the application here!](https://trackerofbudget.herokuapp.com/)
 
-User can track spending with this online and offline budget tracker.
+# PWA Homework: Online/Offline Budget Trackers
+
+Users can track their spending with this online and offline budget tracker.
 
 Offline Functionality:
 
@@ -14,7 +16,7 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
-## Technologies Used
+### Technologies Used
 
 - VS Code
 - Chrome
@@ -25,19 +27,15 @@ When brought back online:
 - Github
 - Heroku
 
-## License
+### License
 
 N/A
 
-## Prequisites
+### Prequisites
 
 Working browser
 
-## Contributers
+### Contributers
 
-- James Kim
-- Jessica Perez
-- Mike Haber
 - Justin Ramirez
 - Marian Gude
-- Devon Brewster
